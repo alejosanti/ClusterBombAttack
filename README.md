@@ -1,4 +1,4 @@
-# ClusterBombAttack
+# Cluster Bomb Attack
 It is a python script that performs a ClusterBombAttack. 
 
 I did it because using Burp, in its free version, the attack takes too long, so it's a good alternative if you don't have the pro version.
